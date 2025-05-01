@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/Usuario/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/maps/Nivel4.umap",
+=======
+				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/maps/Nivel1.umap",
+				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/overlap/BP_overlapingActor.uasset",
+>>>>>>> origin/PaulaGonzalez
 				"C:/Users/RYZEN_VICTUS/Documents/Unreal Projects/FeatherBound/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/RYZEN_VICTUS/Documents/Unreal Projects/FeatherBound/Content/maps/Nivel1.umap",
 				"C:/Users/RYZEN_VICTUS/Documents/Unreal Projects/FeatherBound/Content/maps/Nivel2.umap",
