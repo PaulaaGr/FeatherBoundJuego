@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Config/BP_MyGameInstance.uasset",
+				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/overlap/Checkpoint/BP_Checkpoint.uasset",
+				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/overlap/BP_overlapingActor.uasset",
+				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/maps/Nivel1.umap",
+				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Widgets/WBP_HUD.uasset",
+				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/BP_ejemplo.uasset",
 				"C:/Users/ASUS_COREI5/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/maps/Nivel2.umap",
 				"C:/Users/ASUS_COREI5/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Nivel2/BP_ArbolesCaidos.uasset",
 				"C:/Users/ASUS_COREI5/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Nivel2/BP_PiedrasObstaculo.uasset",
