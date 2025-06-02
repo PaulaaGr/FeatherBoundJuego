@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Usuario/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Draeven/DraevenCharacter.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Draeven/ControllerDraeven.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/maps/Nivel4.umap",
+				"C:/Users/Usuario/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Draeven/DraevenSenseController.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/maps/Nivel1.umap",
 				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Config/BP_MyGameInstance.uasset",
 				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/overlap/Checkpoint/BP_Checkpoint.uasset",
 				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/overlap/BP_overlapingActor.uasset",
