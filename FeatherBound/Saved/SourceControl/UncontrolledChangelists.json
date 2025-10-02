@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Gallus/BP_Boss.uasset",
+				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Gallus/AIC_Boss.uasset",
+				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/maps/prueba.umap",
+				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Gallus/Tasks/BTT_SetStateAsPassive.uasset",
+				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Gallus/BT_Boss.uasset",
+				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Gallus/Tasks/BTT_DefaultAttack.uasset",
+				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/overlap/BP_AidKit.uasset",
 				"C:/Users/ASUS_COREI5/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/ASUS_COREI5/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/Materials/RoomParcial/Piso1/PisoAmarillo.uasset",
 				"C:/Users/ASUS_COREI5/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/Materials/RoomParcial/Piso1/PisoRojo.uasset",
@@ -21,13 +29,6 @@
 				"C:/Users/ASUS_COREI5/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Ghost/GhostEnemy.uasset",
 				"C:/Users/ASUS_COREI5/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Oruguitas/BP_Oruguita.uasset",
 				"C:/Users/ASUS_COREI5/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Ghost/MyBehaviorTree.uasset",
-				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Gallus/BP_Boss.uasset",
-				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Gallus/AIC_Boss.uasset",
-				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/maps/prueba.umap",
-				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Gallus/Tasks/BTT_SetStateAsPassive.uasset",
-				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Gallus/BT_Boss.uasset",
-				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Gallus/Tasks/BTT_DefaultAttack.uasset",
 				"C:/Users/ASUS_COREI5/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/Materials/RoomParcial/Piso1/hongos.uasset"
 			]
 		}
