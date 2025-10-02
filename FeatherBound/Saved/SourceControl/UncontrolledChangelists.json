@@ -8,7 +8,8 @@
 				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Gallus/BP_Boss.uasset",
 				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Gallus/AIC_Boss.uasset",
-				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/maps/prueba.umap"
+				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/maps/prueba.umap",
+				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Gallus/Tasks/BTT_SetStateAsPassive.uasset"
 			]
 		}
 	]
