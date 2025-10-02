@@ -87,6 +87,8 @@
 				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Gallus/Tasks/BTT_SetMovementSpeed.uasset",
 				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Gallus/Decorators/BTD_hasPatrolRoute.uasset",
 				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Gallus/Enums/E_AIState.uasset",
+				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Gallus/Enums/E_AISense.uasset",
+				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Gallus/Tasks/BTT_SetStateAsPassive.uasset",
 				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Gallus/BTT_DefaultAttack.uasset",
 				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Gallus/BD_Boss.uasset",
 				"C:/Users/RYZEN_VICTUS/Documents/GitHub/FeatherBoundJuego/FeatherBound/Content/bluePrints/Actors/Enemigos/Gallus/Tasks/BT_Task_BossPatrol.uasset",
