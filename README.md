@@ -38,7 +38,7 @@ Instalación
 
 Para instalar el proyecto, primero se debe clonar o descargar el repositorio:
 
-git clone https://github.com/tuusuario/featherbound.git
+git clone https://github.com/PaulaaGr/FeatherBoundJuego.git
 
 
 Luego, se debe abrir el archivo Featherbound.uproject en Unreal Engine 5.4 y esperar a que se compile el contenido inicial.
@@ -47,14 +47,9 @@ Ejecución
 
 Una vez cargado el proyecto, se puede iniciar la partida presionando Play dentro del editor.
 
-Empaquetado
-
-El juego puede empaquetarse mediante la opción: File → Package Project → Windows → Windows 64-bit.
-
 Estructura del proyecto
 
-La estructura principal del contenido incluye carpetas de Animation, Audios, bluePrints (que contiene subcarpetas como Actors, con AtaquesPickle, Enemigos —Draeven, Gallus, Ghost y Oruguitas—, Generales —Nivel1, Nivel2, Nivel3, Nivel4 y NivelTesting— y overlap), así como Config, FunctionLibraries, InteractiveActor, Pickle_tamaño, saveSystem y Widgets. Además, existe un nivel adicional ubicado en el mapa predeterminado de Unreal Engine dentro de ThirdPersonMap, utilizado para pruebas o referencias internas.
-
+La estructura principal del contenido incluye carpetas de Animation, Audios, bluePrints (que contiene subcarpetas como Actors, con AtaquesPickle, Enemigos —Draeven, Gallus, Ghost y Oruguitas—, Generales —Nivel1, Nivel2, Nivel3, Nivel4 y NivelTesting— y overlap), así como Config, FunctionLibraries, InteractiveActor, Pickle_tamaño, saveSystem y Widgets. Además, existe un nivel adicional ubicado en el mapa predeterminado de Unreal Engine dentro de ThirdPersonMap.
 Autor
 
 Proyecto desarrollado por Cinderella's Rats.
