@@ -2,7 +2,7 @@ FEATHERBOUND
 Videojuego de aventuras y plataformas en 3D
 Descripción
 
-Featherbound es un videojuego de aventura y plataformas en 3D donde el jugador controla a Pickle, un cuervo que debe rescatar a sus amigos atrapados en jaulas encantadas por una fuerza oscura que corrompe un bosque mágico. El juego combina exploración, mecánicas ágiles de movimiento, combate y una narrativa emotiva para crear una experiencia desafiante y atmosférica.
+Featherbound es un videojuego de aventura y plataformas en 3D donde el jugador controla a Pickle, un cuervo que debe rescatar a sus amigos atrapados en jaulas encantadas por una fuerza oscura que corrompe un bosque mágico. El juego combina exploración, mecánicas ágiles de movimiento, combate y una narrativa emotiva para crear una experiencia desafiante y atmosférica. También ofrece la posibilidad de jugar tanto con teclado y mouse como con mando, permitiendo una experiencia adaptable a las preferencias del jugador.
 
 Características principales
 Ambientación
@@ -45,11 +45,12 @@ Luego, se debe abrir el archivo Featherbound.uproject en Unreal Engine 5.4 y esp
 
 Ejecución
 
-Una vez cargado el proyecto, se puede iniciar la partida presionando Play dentro del editor.
+Una vez cargado el proyecto, se puede iniciar la partida presionando Play dentro del editor. El juego puede jugarse con teclado y mouse, o alternativamente con un mando compatible.
 
 Estructura del proyecto
 
-La estructura principal del contenido incluye carpetas de Animation, Audios, bluePrints (que contiene subcarpetas como Actors, con AtaquesPickle, Enemigos —Draeven, Gallus, Ghost y Oruguitas—, Generales —Nivel1, Nivel2, Nivel3, Nivel4 y NivelTesting— y overlap), así como Config, FunctionLibraries, InteractiveActor, Pickle_tamaño, saveSystem y Widgets. Además, existe un nivel adicional ubicado en el mapa predeterminado de Unreal Engine dentro de ThirdPersonMap.
+La estructura principal del contenido incluye carpetas de Animation, Audios, bluePrints (que contiene subcarpetas como Actors, con AtaquesPickle, Enemigos —Draeven, Gallus, Ghost y Oruguitas—, Generales —Nivel1, Nivel2, Nivel3, Nivel4 y NivelTesting— y overlap), así como Config, FunctionLibraries, InteractiveActor, Pickle_tamaño, saveSystem y Widgets. Además, existe un nivel adicional ubicado en el mapa predeterminado de Unreal Engine dentro de ThirdPersonMap, utilizado para pruebas o referencias internas.
+
 Autor
 
 Proyecto desarrollado por Cinderella's Rats.
