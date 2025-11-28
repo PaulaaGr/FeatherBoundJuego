@@ -1,5 +1,6 @@
 FEATHERBOUND
 Videojuego de aventuras y plataformas en 3D
+
 DESCRIPCION
 Featherbound es un videojuego de aventura y plataformas en 3D donde el jugador controla a Pickle, un cuervo que debe rescatar a sus amigos atrapados en jaulas encantadas por una fuerza oscura que corrompe un bosque mágico. El juego combina exploración, mecánicas ágiles de movimiento, combate y una narrativa emotiva para crear una experiencia desafiante y atmosférica.
 
